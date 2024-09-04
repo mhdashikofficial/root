@@ -1,6 +1,4 @@
-Here’s a `README.md` file for the script:
 
-```markdown
 # Termux Root Privileges Script
 
 ### Created by Ashik
