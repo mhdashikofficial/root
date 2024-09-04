@@ -13,7 +13,7 @@ This script is designed to simulate root privileges in Termux, a terminal emulat
 - Installs essential packages such as `fish`, `ncurses-utils`, `proot`, `proot-distro`, `tsu`, `fakeroot`, and `parted`.
 - Replaces the default `bash.bashrc` to customize the Termux shell.
 - Provides a "root" command that simulates root privileges.
-- Opens the [Ashverse YouTube channel](https://www.youtube.com/@Ashverse) to help you learn more tricks and tips.
+- Opens the [Ashverse YouTube channel](https://www.youtube.com/@Ash.verse0) to help you learn more tricks and tips.
 
 ## Prerequisites
 
