@@ -32,12 +32,12 @@ Before running this script, ensure you have the following:
 
 2. **Make the script executable**:
    ```bash
-   chmod +x main.sh
+   chmod +x main
    ```
 
 3. **Run the script**:
    ```bash
-   ./main.sh
+   ./main
    ```
 
 ## Usage
